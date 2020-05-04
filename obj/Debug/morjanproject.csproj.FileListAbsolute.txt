@@ -1,0 +1,6 @@
+c:\users\barinale\documents\visual studio 2012\Projects\morjanproject\morjanproject\bin\Debug\morjanproject.exe.config
+c:\users\barinale\documents\visual studio 2012\Projects\morjanproject\morjanproject\bin\Debug\morjanproject.exe
+c:\users\barinale\documents\visual studio 2012\Projects\morjanproject\morjanproject\bin\Debug\morjanproject.pdb
+c:\users\barinale\documents\visual studio 2012\Projects\morjanproject\morjanproject\obj\Debug\morjanproject.csprojResolveAssemblyReference.cache
+c:\users\barinale\documents\visual studio 2012\Projects\morjanproject\morjanproject\obj\Debug\morjanproject.exe
+c:\users\barinale\documents\visual studio 2012\Projects\morjanproject\morjanproject\obj\Debug\morjanproject.pdb
